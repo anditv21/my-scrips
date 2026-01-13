@@ -1,0 +1,1 @@
+This script sends SABnzbd notifications to Discord as rich embeds with event-specific colors and emojis. It extracts category and status information from SABnzbd messages
